@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zzznnnn.vers
+- 👋 Hi, I’m @fauzanhidayat
 - 👀 I’m interested in coding industries
 - 🌱 I’m currently learning c++ because im newbie in this world
 - 💞️ I’m looking to collaborate on anyone
